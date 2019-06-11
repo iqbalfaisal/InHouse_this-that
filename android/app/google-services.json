@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "814833699979",
+    "firebase_url": "https://this-or-that-fee24.firebaseio.com",
+    "project_id": "this-or-that-fee24",
+    "storage_bucket": "this-or-that-fee24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814833699979:android:c8967a8957593bf4",
+        "android_client_info": {
+          "package_name": "com.thisorthat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814833699979-p2of9alc329u24e7ggnaus6bsel2flda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTGQrsU7DhXAtQI1v4c0zwFsNZsaVx7Uc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
