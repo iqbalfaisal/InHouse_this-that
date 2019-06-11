@@ -31,7 +31,7 @@
     "prop-types": "^15.6.2",
     "pubnub": "^4.21.6",
     "pubnub-react": "^1.2.0",
-    "querystringify": "1.0.0",
+    "querystringify": "2.0.0",
     "ramda": "^0.25.0",
     "react": "16.6.0-alpha.8af6728",
     "react-devtools": "^3.4.3",
